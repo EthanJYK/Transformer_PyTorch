@@ -1,7 +1,7 @@
 ﻿## Transformer using PyTorch
 
 ### 요구사항
-- Python 3, PyTorch 최신버전
+- Python 3, PyTorch 최신버전, CUDA 지원 GPU
 
 ### 파일
 - English.txt: 번역 훈련용 영어 문장 data
